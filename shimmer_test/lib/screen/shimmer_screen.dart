@@ -130,7 +130,7 @@ class MainSkeleton extends StatelessWidget {
                 ),
                 SizedBox(height: 8),
                 Text(
-                  listOfUsers[index].decription,
+                  listOfUsers[index].description,
                   style: TextStyle(
                       fontWeight: FontWeight.w400,
                       color: Color.fromARGB(255, 194, 194, 194),
