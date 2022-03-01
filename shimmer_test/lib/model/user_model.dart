@@ -1,11 +1,11 @@
 class Users {
   final String name;
-  final String decription;
+  final String description;
   final String imageAd;
 
   Users(
     this.name,
-    this.decription,
+    this.description,
     this.imageAd,
   );
 }
